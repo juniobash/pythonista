@@ -1,3 +1,3 @@
-# :snake: [Pythonista AVANCADO](/3-python-fluente) 
+# :snake: Pythonista AVANCADO
 Codigos baseados no livro:  
 > ***Python Fluente*** - `Luciano Ramalho`

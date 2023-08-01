@@ -1,3 +1,3 @@
-# :snake: [Pythonista INCIANTE](/1-curso-intensivo-python)
+# :snake: Pythonista INCIANTE
 Codigos baseados no livro:  
 > ***Curso Intensivo de Python*** - `Eric Matthes`

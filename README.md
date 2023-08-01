@@ -12,17 +12,3 @@ Codigos baseados no livro:
 ## [AVANCADO](/3-python-fluente) 
 Codigos baseados no livro:  
 > ***Python Fluente*** - `Luciano Ramalho`
-
-<!---
-~~~
-git init
-git add .
-git status
-git commit -m "first commit"
-git branch -M main
-OWNER="juniobash" \
-REPOSITORY="pythonista" \
-git remote add origin git@github.com:juniobash/pythonista.git
-git push origin main
-~~~
---->

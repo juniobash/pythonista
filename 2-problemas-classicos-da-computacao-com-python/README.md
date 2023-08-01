@@ -1,3 +1,3 @@
-# :snake: [Pythonista INTERMEDIARIO](/2-problemas-classicos-da-computacao-com-python)
+# :snake: Pythonista INTERMEDIARIO
 Codigos baseados no livro:  
 > ***Problemas Clássicos da Computacao com Python*** - `David Kopec`  
