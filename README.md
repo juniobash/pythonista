@@ -12,3 +12,7 @@ Codigos baseados no livro:
 ## [AVANCADO](/3-python-fluente) 
 Codigos baseados no livro:  
 > ***Python Fluente*** - `Luciano Ramalho`
+
+## [NOTAS PESSOAIS](/notas-pessoais) 
+Codigos baseados no livro:  
+> ***Minhas Notas sobre Python*** - `@juniobash`
