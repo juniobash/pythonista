@@ -16,3 +16,13 @@ Codigos baseados no livro:
 ## [NOTAS PESSOAIS](/notas-pessoais) 
 Codigos baseados no livro:  
 > ***Minhas Notas sobre Python*** - `@juniobash`
+
+
+# :elf_woman: `"you can programming softly and beautiful"`
+## Problemas classicos da computacao
+1 | `fibonacci.py`  
+## Nascimento de uma pythonNinfa
+1 | `baralho-cartas.py`  
+2 | ` `
+
+> made by @juniobash @codenymphs
