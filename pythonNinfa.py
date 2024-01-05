@@ -7,6 +7,6 @@ class nymphs:
         print(f"_{message}")
 
 if __name__ == '__main__':
-    ny = nymphs
-    ny.name('sunna')
-    ny.speak()
+    nymph = nymphs
+    nymph.name('sunna')
+    nymph.speak()
