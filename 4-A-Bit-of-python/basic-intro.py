@@ -124,7 +124,7 @@ print(poema)
 i = 5
 print(i)
 
-i =5; print(i)  # nao recomendado
+i = 5; print(i)  # nao recomendado
 
 numero_com_nome_de_variavel_longa = 2
 numero_com_nome_de_variavel_mais_longa_ainda = 5
