@@ -1,43 +1,11 @@
-# Style Guide for Python Code
+# Guia de estilo para código python
+pep7, pep20, pep257, gnu-sytle-code, 
 
-PEP: 8
-Title: Style Guide for Python Code
-Author: Guido van Rossum <guido@python.org>,
-        Barry Warsaw <barry@python.org>,
-        Alyssa Coghlan <ncoghlan@gmail.com>
-Status: Active
-Type: Process
-Created: 05-Jul-2001
-Post-History: 05-Jul-2001, 01-Aug-2013
-
-
-Introduction
-============
-
-This document gives coding conventions for the Python code comprising
-the standard library in the main Python distribution.  Please see the
-companion informational PEP describing :pep:`style guidelines for the C code
-in the C implementation of Python <7>`.
-
-This document and :pep:`257` (Docstring Conventions) were adapted from
-Guido's original Python Style Guide essay, with some additions from
-Barry's style guide [2]_.
-
-This style guide evolves over time as additional conventions are
-identified and past conventions are rendered obsolete by changes in
-the language itself.
-
-Many projects have their own coding style guidelines. In the event of any
-conflicts, such project-specific guides take precedence for that project.
-
-
-A Foolish Consistency is the Hobgoblin of Little Minds
-======================================================
-
-One of Guido's key insights is that code is read much more often than
-it is written.  The guidelines provided here are intended to improve
-the readability of code and make it consistent across the wide
-spectrum of Python code.  As :pep:`20` says, "Readability counts".
+## Uma consistência tola é o duende das pequenas mentes
+that code is read much more often than it is written.  
+The guidelines provided here are intended to improve
+the readability of code - As :pep:`20` says, "Readability counts".  
+make it consistent across the wide spectrum of Python code.  
 
 A style guide is about consistency.  Consistency with this style guide
 is important.  Consistency within a project is more important.
